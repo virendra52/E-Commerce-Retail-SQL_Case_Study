@@ -84,19 +84,19 @@ Ensured accurate data types and referential integrity
 
 ## SQL Query Highlights
 
-#### Basic-Level:
+### Basic-Level:
 Customer location, age, and signup trends
 Product filtering by category and price
 Total revenue and unique brand/category stats
 Orders by amount, status, or recent date
 
-# Intermediate-Level:
+### Intermediate-Level:
 Top 5 customers by total spending
 Monthly return volume and product-level revenue
 Products never returned
 Orders per customer, category performance, and ARPU
 
-# Advanced-Level:
+### Advanced-Level:
 Customers with 50%+ return rate
 Signup-to-first-order time analysis
 Stored procedures:
@@ -115,7 +115,7 @@ Inventory Flags: Low-stock, slow-moving products highlighted
 Revenue Optimization: Electronics and Fashion drive over 60% of revenue
 
 ## Conclusion and Recommendations
-# Summary
+### Summary
 This project demonstrates how MySQL can be used to analyze retail sales data and customer behavior. The structured approach enables data-driven decision-making for business growth.
 
 ## Recommendations
@@ -126,7 +126,7 @@ Engage with customers who have not made recent purchases.
 Optimize inventory based on seasonal trends.
 
 ## Future Scope
-# This study can be extended by:
+### This study can be extended by:
 Implementing predictive analytics using machine learning.
 Integrating real-time dashboards with Power BI or Tableau.
 Expanding the dataset with additional customer demographics for deeper analysis.
