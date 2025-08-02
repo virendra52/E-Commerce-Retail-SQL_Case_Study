@@ -84,7 +84,7 @@ Ensured accurate data types and referential integrity
 
 ## SQL Query Highlights
 
-# Basic-Level:
+#### Basic-Level:
 Customer location, age, and signup trends
 Product filtering by category and price
 Total revenue and unique brand/category stats
